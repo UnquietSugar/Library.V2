@@ -1,0 +1,15 @@
+C:\Users\kiril.konstandi\source\repos\LibV2\Lib.DL\bin\Debug\net5.0\Lib.DL.deps.json
+C:\Users\kiril.konstandi\source\repos\LibV2\Lib.DL\bin\Debug\net5.0\Lib.DL.dll
+C:\Users\kiril.konstandi\source\repos\LibV2\Lib.DL\bin\Debug\net5.0\ref\Lib.DL.dll
+C:\Users\kiril.konstandi\source\repos\LibV2\Lib.DL\bin\Debug\net5.0\Lib.DL.pdb
+C:\Users\kiril.konstandi\source\repos\LibV2\Lib.DL\obj\Debug\net5.0\Lib.DL.csproj.AssemblyReference.cache
+C:\Users\kiril.konstandi\source\repos\LibV2\Lib.DL\obj\Debug\net5.0\Lib.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril.konstandi\source\repos\LibV2\Lib.DL\obj\Debug\net5.0\Lib.DL.AssemblyInfoInputs.cache
+C:\Users\kiril.konstandi\source\repos\LibV2\Lib.DL\obj\Debug\net5.0\Lib.DL.AssemblyInfo.cs
+C:\Users\kiril.konstandi\source\repos\LibV2\Lib.DL\obj\Debug\net5.0\Lib.DL.csproj.CoreCompileInputs.cache
+C:\Users\kiril.konstandi\source\repos\LibV2\Lib.DL\obj\Debug\net5.0\Lib.DL.dll
+C:\Users\kiril.konstandi\source\repos\LibV2\Lib.DL\obj\Debug\net5.0\ref\Lib.DL.dll
+C:\Users\kiril.konstandi\source\repos\LibV2\Lib.DL\obj\Debug\net5.0\Lib.DL.pdb
+C:\Users\kiril.konstandi\source\repos\LibV2\Lib.DL\bin\Debug\net5.0\books.json
+C:\Users\kiril.konstandi\source\repos\LibV2\Lib.DL\bin\Debug\net5.0\users.json
+C:\Users\kiril.konstandi\source\repos\LibV2\Lib.DL\bin\Debug\net5.0\userBooks.json
